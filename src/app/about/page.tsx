@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-export default function Home() {
+export default function About() {
   return (
     <div>
-      tes
+      <h1>About Us</h1>
     </div>
-  )
+  );
 }

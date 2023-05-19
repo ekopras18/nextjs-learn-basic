@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-export default function Home() {
+export default function Loading() {
   return (
     <div>
-      tes
+      Loading...
     </div>
-  )
+  );
 }
